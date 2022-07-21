@@ -6,9 +6,12 @@ function Header() {
     <header>
       <div className="dsmeta-logo-container">
         <img src={logo} alt="DSMeta" />
-        <h1>DSMeta</h1>
+        <h1>DSMeta do GIJO</h1>
         <p>
-          Desenvolvido por
+          Desenvolvido por Gesiel Neves na semana Dev Superior         
+        </p>
+        <p>
+          Créditos ao mestre Nélio Alves
           <a href="https://www.instagram.com/devsuperior.ig">@devsuperior.ig</a>
         </p>
       </div>
